@@ -256,28 +256,28 @@
 
   <section id="gallery" class="photo-grid" aria-label="Photo gallery">
     <article class="photo-card" tabindex="0">
-      <img src="WhatsApp Image 2025-06-10 at 09.14.49_5a051e1b.jpg" alt="Mountain landscape with sunrise" />
-      <figcaption>wartaa</figcaption>
+      <img src="WhatsApp Image 2025-06-10 at 09.14.49_5a051e1b.jpg" 
+      figcaption>wartaa</figcaption>
     </article>
     <article class="photo-card" tabindex="0">
-      <img src="WhatsApp Image 2025-06-10 at 09.14.55_c8ba3268.jpg" alt="Clear blue ocean with palm trees" />
-      <figcaption>Anging Mammiri</figcaption>
+      <img src="WhatsApp Image 2025-06-10 at 09.14.55_c8ba3268.jpg" 
+      figcaption>Anging Mammiri</figcaption>
     </article>
     <article class="photo-card" tabindex="0">
-      <img src="WhatsApp Image 2025-06-10 at 09.14.58_afacca30.jpg" alt="Forest path covered in fog" />
-      <figcaption>Anging Mammiri</figcaption>
+      <img src="WhatsApp Image 2025-06-10 at 09.14.58_afacca30.jpg" 
+      figcaption>Anging Mammiri</figcaption>
     </article>
     <article class="photo-card" tabindex="0">
-      <img src="WhatsApp Image 2025-06-10 at 09.14.59_65613c95.jpg" alt="City skyline at dusk" />
-      <figcaption>Pantai Biru</figcaption>
+      <img src="WhatsApp Image 2025-06-10 at 09.14.59_65613c95.jpg" 
+      figcaption>Pantai Biru</figcaption>
     </article>
     <article class="photo-card" tabindex="0">
-      <img src="WhatsApp Image 2025-06-10 at 09.14.59_c2a65d50.jpg" alt="Close-up of colorful autumn leaves" />
-      <figcaption>Blok D</figcaption>
+      <img src="WhatsApp Image 2025-06-10 at 09.14.59_c2a65d50.jpg" 
+      figcaption>Blok D</figcaption>
     </article>
     <article class="photo-card" tabindex="0">
-      <img src="WhatsApp Image 2025-06-10 at 09.15.05_2d0c7fe5.jpg" alt="Serene lake with reflection" />
-      <figcaption>Monumen Mandala</figcaption>
+      <img src="WhatsApp Image 2025-06-10 at 09.15.05_2d0c7fe5.jpg"
+      figcaption>Monumen Mandala</figcaption>
     </article>
   </section>
 
